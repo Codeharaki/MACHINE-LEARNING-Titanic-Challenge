@@ -1,15 +1,13 @@
 # -Titanic-challenge--Machine-learning
 ## Description
-During an Innovation week, students of the Master 1 MIAGE- 2IS were required to develop an innovative project to address some of the most common issues faced by remote workers.
-Our project 'AIssist' won the 1st place. 'AIssist' consists of an innovative Artificial intelligence (AI) assistant that helps workers in a medium to large companies better manage their time and working experience, depending on the intensity of their work.
-Mentors and members of the Jury are:
-Mm. Cyrielle VELLERA- Associate Professor in Marketing at UT1
-Mm. Marie‐Christine VUONG- Project Manager at Sopra Steria
-Mr. Romain LIEBER- Leader of IAXO5 – DiSCo Team at AIRBUS
-Mr. Louis PRUVOST- Open Innovation/ Cross Cultural Coach
+
 
 ## Link to challenge
-https://www.kaggle.com/c/titanic
+During one month period, the participant of the competition needs to use machine learning methods to create a model . Being familiar with python, our professor asked us to code the 
+
+Machine learning model in Java that predicts which passengers survived the Titanic shipwreck. With a user interface in SWING. 
+The model have received a score of : 76.55% 
+https://www.kaggle.com/harakiyouness/competitions
 
 ## Built With
 Netbeans IDE 12.2- JDK 8
