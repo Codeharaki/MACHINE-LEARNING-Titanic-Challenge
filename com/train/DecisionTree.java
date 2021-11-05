@@ -24,7 +24,7 @@ import weka.filters.unsupervised.attribute.NumericToBinary;
 
 /**
  *
- * @author youne
+ * @author Youness Haraki
  */
 public class DecisionTree { 
     private Instances train_Set;
