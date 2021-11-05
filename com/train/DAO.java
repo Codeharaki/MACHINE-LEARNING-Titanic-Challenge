@@ -18,7 +18,7 @@ import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.*;
 /**
  *
- * @author youne
+ * @author Youness Haraki
  */
 public class DAO {
     private final static String RESOURCES_PATH = "src/main/java/resources/";
