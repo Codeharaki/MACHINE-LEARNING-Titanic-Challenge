@@ -7,7 +7,7 @@ package com.mycompany.train;
 
 /**
  *
- * @author youne
+ * @author Youness Haraki
  */
 public class Passenger {
     private int PassengerId;
